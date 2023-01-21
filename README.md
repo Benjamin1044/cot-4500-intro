@@ -8,7 +8,9 @@
 
 3 3x3 matrix from #2 as a 3x2 by deleting the last column from the matrix created
 
-## Run Code 
+## Steps to Run Code from the command line
+
+- type prompt into terminal 
 
 1 pip install -r requirements.txt
 
