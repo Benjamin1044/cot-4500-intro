@@ -14,7 +14,7 @@
 
 2 pip install -U NumPy
 
-3 python intro_to_python.py
+3 python intro_to_python.py ( or python /src/main/intro_to_python.py)
 
 
 
